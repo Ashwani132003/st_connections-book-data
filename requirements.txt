@@ -1,0 +1,4 @@
+SQLAlchemy==1.4.0
+duckdb
+pandas
+streamlit~=1.22.0
